@@ -1,1 +1,32 @@
-[{"id":"5d742194-fafa-4c23-9bbe-aa4cf62a8cf3","title":"Coca Cola 1.5","description":"Alto contenido en azucar","code":"1234567","price":12.4,"stock":123,"category":"bebidas","status":true}]
+[
+  {
+    "id": "5d742194-fafa-4c23-9bbe-aa4cf62a8cf3",
+    "title": "Coca Cola 1.5",
+    "description": "Alto contenido en azucar",
+    "code": "1234567",
+    "price": 12.4,
+    "stock": 123,
+    "category": "bebidas",
+    "status": true
+  },
+  {
+    "id": "9e6b9d10-768a-4f08-99f6-784dd0bf2ba0",
+    "title": "Coca Cola 1.5",
+    "description": "Mucha Azucar",
+    "price": 10,
+    "stock": 100,
+    "category": "bebidas",
+    "code": 5432,
+    "status": true
+  },
+  {
+    "id": "dc01d8c8-e986-4550-a32d-6581b8ae9b25",
+    "title": "PEPSI Cola 1.5",
+    "description": "Mucha Azucar",
+    "price": 10,
+    "stock": 100,
+    "category": "bebidas",
+    "code": 5432,
+    "status": true
+  }
+]
